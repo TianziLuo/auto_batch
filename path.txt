@@ -1,0 +1,2 @@
+firewall: "C:\uServePro\FireWall.bat"
+language kit： "C:\uServePro\install_services_auto.bat"
